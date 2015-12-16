@@ -1,5 +1,4 @@
 # WordPress Pre-Launch Checklist
-================================
 The following is a checklist of items to check prior to launching a new WordPress site. It does not include things like cross-browser and device testing, build processes, concatenation and minification, etc.
 
 ## General
